@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="com.testPack.SampleProject4.TestNGClass" time="0.02" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="com.testPack.SampleProject4.TestNGClass" time="0.072" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="21.0.2+13-LTS-58"/>
@@ -29,7 +29,7 @@
     <property name="classworlds.conf" value="C:\Maven\apache-maven-3.8.6\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="stdout.encoding" value="cp437"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\TestLink\PHP;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\dotnet\;C:\Program Files\dotnet\;C:\Program Files\Java\jdk-21\bin;C:\Maven\apache-maven-3.8.6\bin;C:\Users\S L Narasimman\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-11.0.12\bin;C:\Maven\apache-maven-3.8.6\bin;C:\Users\S L Narasimman\AppData\Roaming\npm;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\TestLink\PHP;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\dotnet\;C:\Program Files\dotnet\;C:\Program Files\Java\jdk-21\bin;C:\Maven\apache-maven-3.8.6\bin;C:\Users\S L Narasimman\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-11.0.12\bin;C:\Maven\apache-maven-3.8.6\bin;C:\Users\S L Narasimman\AppData\Roaming\npm;C:\ProgramData\S L Narasimman\GitHubDesktop\bin;C:\Users\S L Narasimman\AppData\Local\GitHubDesktop\bin;."/>
     <property name="maven.conf" value="C:\Maven\apache-maven-3.8.6/conf"/>
     <property name="jdk.debug" value="release"/>
     <property name="java.class.version" value="65.0"/>
@@ -61,5 +61,5 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="com.testPack.SampleProject4.TestNGClass" name="verifyTitle" time="0.02"/>
+  <testcase classname="com.testPack.SampleProject4.TestNGClass" name="verifyTitle" time="0.072"/>
 </testsuite>
